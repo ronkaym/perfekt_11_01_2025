@@ -1,1 +1,1 @@
-
+#szerkesztés saját gépről
